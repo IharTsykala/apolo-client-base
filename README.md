@@ -1,1 +1,1 @@
-# my-first-vue-aplication
+# my-first-vue-application
